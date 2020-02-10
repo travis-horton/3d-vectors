@@ -1,0 +1,25 @@
+{
+  "name": "3d-vectors",
+  "version": "0.0.1",
+  "description": "",
+  "main": "3d-vectors.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiddspazz/3d-vectors.git"
+  },
+  "keywords": [],
+  "author": "kiddspazz (https://www.travish.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kiddspazz/3d-vectors/issues"
+  },
+  "homepage": "https://github.com/kiddspazz/3d-vectors#readme",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.20.1"
+  }
+}
