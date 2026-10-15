@@ -4,6 +4,9 @@ The whole history of this project, newest first, written for someone who has nev
 
 ## October 2026
 
+**3d-vectors #16: the change log catches up on entries it missed** · [PR #16](https://github.com/travis-horton/3d-vectors/pull/16) · merged 26.1015.0728 · v1.0.2
+- Behind the scenes: the robot that writes this file after each change now also writes in any earlier finished change it missed, oldest first, with a "recorded late" note when it is more than an hour late. If GitHub won't answer one of its lookups, it skips only that one, records the newest change anyway, and fills the gap on a later run.
+
 **3d-vectors #10: the project's past, written down** · [PR #10](https://github.com/travis-horton/3d-vectors/pull/10) · merged 26.1010.1209 · v1.0.1
 - Behind the scenes: the history file now tells the whole story of the project in plain words, from its first day on 20.0209 up to the history tool, one entry per step, numbered from version 0.1.0.
 
