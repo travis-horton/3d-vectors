@@ -4,6 +4,9 @@ The whole history of this project, newest first, written for someone who has nev
 
 ## October 2026
 
+**3d-vectors #18: Dependabot's updates merge themselves** · [PR #18](https://github.com/travis-horton/3d-vectors/pull/18) · merged 26.1016.1117 · v1.0.7
+- Behind the scenes: a new automatic job merges each library update from Dependabot as soon as it opens, then asks the change-log job to record it, so the updates keep landing without anyone clicking merge.
+
 **3d-vectors #17: Bump minimatch from 3.0.4 to 3.1.5** · [PR #17](https://github.com/travis-horton/3d-vectors/pull/17) · merged 26.1016.1031 · v1.0.6
 - Behind the scenes: an automatic dependency update — "Bump minimatch from 3.0.4 to 3.1.5".
 
