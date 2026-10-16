@@ -4,6 +4,9 @@ The whole history of this project, newest first, written for someone who has nev
 
 ## October 2026
 
+**3d-vectors #17: Bump minimatch from 3.0.4 to 3.1.5** · [PR #17](https://github.com/travis-horton/3d-vectors/pull/17) · merged 26.1016.1031 · v1.0.6
+- Behind the scenes: an automatic dependency update — "Bump minimatch from 3.0.4 to 3.1.5".
+
 **3d-vectors #12: Bump brace-expansion from 1.1.11 to 1.1.21** · [PR #12](https://github.com/travis-horton/3d-vectors/pull/12) · merged 26.1016.1001 · v1.0.5
 - Behind the scenes: an automatic dependency update — "Bump brace-expansion from 1.1.11 to 1.1.21".
 
