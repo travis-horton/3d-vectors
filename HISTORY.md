@@ -4,6 +4,9 @@ The whole history of this project, newest first, written for someone who has nev
 
 ## October 2026
 
+**3d-vectors #13: Bump tmp and eslint** · [PR #13](https://github.com/travis-horton/3d-vectors/pull/13) · merged 26.1016.0956 · v1.0.4
+- Behind the scenes: an automatic dependency update — "Bump tmp and eslint".
+
 **3d-vectors #11: Bump flatted and eslint** · [PR #11](https://github.com/travis-horton/3d-vectors/pull/11) · merged 26.1016.0956 · v1.0.3
 - Behind the scenes: an automatic dependency update — "Bump flatted and eslint".
 
